@@ -1,1 +1,1 @@
-# globa_terrorism
+# global_terrorism_analysis
